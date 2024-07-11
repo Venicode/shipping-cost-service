@@ -70,6 +70,20 @@ GET /shippingcost/{cep}&idConfigPrice={id}&apikey={key} - Retrieve a map with th
 
 <p>Example to response: </p>
 
+```
+{
+  "shippingCost": 89.7112,
+  "initialConfig": {
+    "id": 1,
+    "cepOrigin": "18608336",
+    "costPerKm": 0.4
+  },
+  "origin": "Botucatu",
+  "destination": "Campinas",
+  "durationMinutes": 154.13333333333333,
+  "km": 224.278
+}
+```
 
 <h2 id="database">📝 Database</h2>
 
