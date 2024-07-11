@@ -64,7 +64,7 @@ PUT /initialConfig/{id} - Update the initial config informations.
 
 ```
 
-GET /shippingcost/{cep}&idConfigPrice={id}&apikey={key} - Retrieve a map with the shipping cost, initial config (which parameter was applied to calculated), duration in minutes and the distante in kilometers.
+GET /shippingcost/{cep}&idInitialConfig={id}&apikey={key} - Retrieve a map with the shipping cost, initial config (which parameter was applied to calculated), duration in minutes and the distante in kilometers.
 
 ```
 
