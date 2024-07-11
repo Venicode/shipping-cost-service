@@ -18,7 +18,7 @@
   <b>This is a microservice to calculate the shipping cost based in the distance from origin to destination and the price per kilometers.</b>
 </p>
 <h2 id="started">🚀 Getting started</h2>
-<p>This project was created to calculate the shipping cost in a delivery. For this, I consumed two services, the first one is to return the location based in a <a href="https://viacep.com.br/">CEP</a> 
+<p>This project was created to calculate shipping cost in a delivery. For this, I consumed two services, the first one is to return the location based in a <a href="https://viacep.com.br/">CEP</a> 
   and the last one is <a href="https://developers.google.com/maps/documentation/distance-matrix?hl=pt-br">to calculate the distance</a> in meters based in two locations. If you want take a look in the code, be confortable to clone this project: </p>
 
 ```bash
