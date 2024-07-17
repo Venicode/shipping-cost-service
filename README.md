@@ -34,7 +34,7 @@ git clone https://github.com/Venicode/shipping-cost-service
 
 <h3>Starting</h3>
 
-<p>When download to <a href="https://www.transfernow.net/dl/20240711EO9oihPP">shipping-cost-service.jar</a> is done, move this file whatever you want and open a command prompt. Then, check the path's file and type the command below:</p>
+<p>When download to <a href="https://drive.google.com/drive/folders/1oRa05HKkIrUwt0F4cmzI8ywFD93VaWTs?usp=sharing">shipping-cost-service.jar</a> is done, move this file whatever you want and open a command prompt. Then, check the path's file and type the command below:</p>
 
 ```bash
 C:\path\to\file>java -jar shipping-cost-service.jar
